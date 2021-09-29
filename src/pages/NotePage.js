@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 // import notes from '../assets/data'
-import { Link } from "react-router-dom";
 import { ReactComponent as ArrowLeft } from "../assets/arrow-left.svg";
 
 const NotePage = ({ match, history }) => {
